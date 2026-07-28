@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-ec29uh.nuansa138win.site/sitemap.xml
